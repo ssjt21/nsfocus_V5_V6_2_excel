@@ -4,7 +4,7 @@
 @author:随时静听
 @file: get_data_nsfoucs.py
 @time: 2018/08/31
-@email:wang_di@topsec.com.cn
+
 """
 
 import zipfile
